@@ -1,0 +1,29 @@
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# Intellij
+.idea
+*.iml
+*.ipr
+*.iws
+
+# Eclipse
+.settings
+.project
+.classpath
+
+#gradle
+.gradle/
+
+# Maven
+target/
+
+# Log files
+*.log
+
+# Java
+out/**
+*.class
+build/
